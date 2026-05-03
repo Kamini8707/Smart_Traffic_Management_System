@@ -121,11 +121,11 @@ npm start
 🤖 Deep Reinforcement Learning for large-scale systems
 
 ## 👩‍💻 Contributors
-Kamini Prajapati
-Anushka Chandra
-Jyoti Singh
-Sadhna Paswan
-Ritik Pandey
+- Kamini Prajapati
+- Anushka Chandra
+- Jyoti Singh
+- Sadhna Paswan
+- Ritik Pandey
 
 (Project Mentor: Prof. Sanjai Kumar Gupta)
 
