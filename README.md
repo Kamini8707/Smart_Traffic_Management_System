@@ -112,3 +112,27 @@ cd client
 npm install
 npm start
 ```
+
+## 🔮 Future Enhancements
+🚑 Emergency vehicle (ambulance) priority system
+📷 Integration with real CCTV cameras (YOLO detection)
+🌐 Multi-intersection traffic optimization
+🚦 IoT-based smart traffic sensors
+🤖 Deep Reinforcement Learning for large-scale systems
+
+## 👩‍💻 Contributors
+Kamini Prajapati
+Anushka Chandra
+Jyoti Singh
+Sadhna Paswan
+Ritik Pandey
+
+(Project Mentor: Prof. Sanjai Kumar Gupta)
+
+## 📌 Conclusion
+
+This project demonstrates how Artificial Intelligence + MERN Stack can be used to solve real-world problems like traffic congestion. Reinforcement Learning enables adaptive, efficient, and scalable traffic management, making it a strong solution for future smart cities.
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub!
