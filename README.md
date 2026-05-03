@@ -93,4 +93,22 @@ Model improves over time
 Dashboard view
 Signal simulation
 Performance comparison
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
+```
+# Clone repository
+git clone https://github.com/Kamini8707/Smart_Traffic_Management_System.git
+
+# Navigate to project folder
+cd Smart_Traffic_Management_System
+
+# Install backend dependencies
+npm install
+
+# Start backend server
+npm start
+
+# For frontend (if separate)
+cd client
+npm install
+npm start
+```
