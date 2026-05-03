@@ -1,5 +1,5 @@
-🚦 Smart Traffic Signal Optimization using Reinforcement Learning
-📌 Project Overview
+### 🚦 Smart Traffic Signal Optimization using Reinforcement Learning
+## 📌 Project Overview
 
 Traffic congestion is a major challenge in modern cities, leading to increased waiting time, fuel consumption, and environmental pollution. Traditional traffic signals operate on fixed timers, which fail to adapt to real-time traffic conditions.
 
@@ -7,13 +7,13 @@ This project presents a Smart Traffic Signal Management System that uses Reinfor
 
 The system learns optimal decisions over time to reduce congestion and improve traffic flow efficiency.
 
-🎯 Objectives
+## 🎯 Objectives
 Reduce traffic congestion using AI-based optimization
 Minimize vehicle waiting time and fuel consumption
 Dynamically adjust signal timings based on traffic density
 Compare traditional vs smart traffic signal performance
 Build a real-time visualization dashboard
-❗ Problem Statement
+## ❗ Problem Statement
 
 Conventional traffic signals:
 
@@ -26,7 +26,7 @@ A smarter, adaptive system is required to:
 Respond to real-time traffic
 Optimize signal timing dynamically
 Improve urban mobility
-💡 Proposed Solution
+## 💡 Proposed Solution
 
 We model traffic signal control using Reinforcement Learning (RL):
 
@@ -55,7 +55,7 @@ Database
 Stores traffic logs and results
 Frontend Dashboard
 Displays real-time analytics and comparison
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 🔹 Frontend
 React.js
 Chart.js / Recharts
@@ -69,7 +69,7 @@ Python
 Reinforcement Learning (Q-Learning / Deep Q-Network)
 🔹 Simulation
 Synthetic traffic data / SUMO (optional)
-📊 Expected Results
+## 📊 Expected Results
 Reduced average waiting time
 Improved traffic flow efficiency
 Lower fuel consumption
@@ -79,14 +79,14 @@ Research shows RL-based systems can:
 
 Reduce delay by up to 40–45%
 Improve throughput by ~28%
-🚀 How It Works
+## 🚀 How It Works
 Traffic data is collected (vehicles per lane)
 RL agent analyzes current state
 Agent selects optimal signal timing
 System updates traffic signal
 Feedback (reward) is given
 Model improves over time
-📸 Demo (Optional)
+## 📸 Demo 
 
 👉 Add screenshots / GIFs here
 
